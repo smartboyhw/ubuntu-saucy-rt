@@ -1,0 +1,11 @@
+# arch	version		flavour		installedname			suffix	bdep
+amd64	3.10.0-6	generic		3.10.0-6-generic		-	
+
+i386	3.10.0-6	generic		3.10.0-6-generic		-	
+
+armhf	3.10.0-6	generic		3.10.0-6-generic		-
+
+armhf	3.10.0-6	generic-lpae		3.10.0-6-generic-lpae		-
+
+# Ports
+# arch	version		flavour		installedname			suffix	bdep
