@@ -4,5 +4,5 @@ repo_list=(
 	"http://ppa.launchpad.net/abogani/lowlatency/ubuntu"
 )
 
-getall amd64 lowlatency
-getall i386 lowlatency
+getall amd64 rt
+getall i386 rt
